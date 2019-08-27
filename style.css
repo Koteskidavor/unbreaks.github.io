@@ -1,0 +1,32 @@
+body	{
+	background-image :url( "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMQsiXvIIJ1HyuE2SbYX2uzdHAUw0034BIlyNDI1GZ9yYPAKnz");
+	background-repeat: no-repeat;
+	background-size:cover;
+    
+}
+.text-center {
+margin-top: 400px;
+text-align: center;
+display: block;
+	
+justify-content: center;
+color: white;
+
+}
+.stuff {
+
+	margin-left:  850px;
+	margin-top: 350px;
+}
+.btn	{
+	border-radius: 12px;
+}
+.btn:hover {
+	
+color:orange;
+transform: scale(1.2);
+transition: all 1s ;
+
+  
+ }
+
